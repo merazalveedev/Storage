@@ -13,4 +13,4 @@ This repository serves as a **CDN (Content Delivery Network)** for hosting stati
 ### 1. Clone the Repository
 Clone this repository or download it to your local machine:
 ```bash
-git clone https://github.com/merazalveedev/cdn.git
+git clone https://github.com/merazalveedev/Storage.git
